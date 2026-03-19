@@ -1,5 +1,29 @@
 # API Challenge
+Project Description  
+This is a simple web project that displays a random fact using an external API. The user can click a button to load a new fact, and the background color changes smoothly each time to create a more dynamic and visually soft experience. The goal of this project was to practice working with APIs and updating the page using JavaScript.
 
+Features  
+Displays a random fact from an API  
+"Next" button to load a new fact  
+Background color changes on each click  
+Smooth color transitions  
+
+Technologies Used  
+HTML  
+CSS  
+JavaScript  
+Fetch API  
+
+How to Use  
+Open the project in a browser  
+Click the "Next" button to load a new fact  
+The fact and background color will update automatically  
+
+Learning Goals  
+Working with APIs in JavaScript  
+Using fetch to get data  
+Updating the DOM dynamically  
+Improving UI with simple visual effects  
 
 
 ## Getting started
